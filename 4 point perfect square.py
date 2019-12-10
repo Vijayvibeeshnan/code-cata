@@ -1,0 +1,16 @@
+a,b=input().split()
+a=int(a)
+b=int(b)
+c,d=input().split()
+c=int(c)
+d=int(d)
+e,f=input().split()
+e=int()
+f=int()
+g,h=input().split()
+g=int(g)
+h=int(h)
+if(a==b and c==d and e==f and g==h):
+    print("yes")
+else:
+    print("no")
